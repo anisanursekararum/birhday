@@ -1,10 +1,4 @@
----
-runme:
-  id: 01HT2R0Y9ZK1ZXP751912DC5HW
-  version: v3
----
-
-## ✨ Say Happy Birthday with a Webpage
+✨ Say Happy Birthday with a Webpage
 
 ## 🚀 How to Use
 
